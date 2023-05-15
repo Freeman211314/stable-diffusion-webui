@@ -1,6 +1,6 @@
 __pycache__
-*.ckpt
-*.safetensors
+//*.ckpt
+//*.safetensors
 *.pth
 /ESRGAN/*
 /SwinIR/*
