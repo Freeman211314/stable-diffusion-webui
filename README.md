@@ -119,7 +119,7 @@ sudo pacman -S wget git python3
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui/master/webui.sh)
 ```
-3. Run `webui.sh`.
+3. Run `webui.sh` or Run 'sh webui.sh --precision full --no-half'.
 4. Check `webui-user.sh` for options.
 ### Installation on Apple Silicon
 
